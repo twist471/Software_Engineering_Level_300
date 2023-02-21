@@ -105,8 +105,6 @@ the specific needs of a project or organization.
 
 
 
-
-
 The key phases and activities involved in RUP are as follows:
 
 1. Inception: This phase is focused on understanding the project scope, objectives, and requirements. The key activities in this phase include identifying stakeholders, defining the problem, creating a vision document,
@@ -120,7 +118,6 @@ key use cases, creating a high-level system architecture, developing a more deta
 
 4. Transition: This phase is focused on deploying the software product into a production environment. The key activities in this phase include developing user manuals, training end-users, conducting acceptance testing, and 
 creating a deployment plan.
-
 
 
 In addition to these four phases, RUP also emphasizes the following key activities throughout the software development life cycle:
